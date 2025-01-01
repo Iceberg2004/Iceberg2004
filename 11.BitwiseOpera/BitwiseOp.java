@@ -25,20 +25,23 @@ public class BitwiseOp {
              2|2             0
              2|1             0
                1
-         ans=(10001)
+         ans=(10001)2
+
         2. base b to decimal
 
+         multiply and add power of base with digits 
+
+        10001 binary in decimal=?
+        
+         1*2^4 +0*2^3 + 0*2^2 + 0*2^1 + 1*2^0=17 in decimal(10)
+         
+         
+         21 octal to decimal
+
+         2*8^1 + 1*8^0=17
 
 
-
-
-
-
-
-
-
-
-
+        
 
 
 
