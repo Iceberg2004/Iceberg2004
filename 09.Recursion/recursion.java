@@ -14,9 +14,9 @@ public class recursion {
     }
 }
 
-// steps to dolve recursion problem
+// steps to solve recursion problem
 /*
-  1. break the problem into smaller problems
+  1.Break the problem into smaller problems
   2.write the reoccurence relation if needed
   3.draw the recursion tree
   4.see the flow of functions ,how they are getting in stack

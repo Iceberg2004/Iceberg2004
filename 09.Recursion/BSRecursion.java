@@ -5,12 +5,12 @@ public class BSRecursion {
     }
     static int BSRecur(int [] arr,int target,int s,int e){
         if(s>e){
-            return -1;
+            return -1;        //     exit case
         }
         int m = s + (e-s)/2;
        
         
-        if(arr[m]==target){
+        if(arr[m]==target){         // recursive statements
            return m;
         }
         if(arr[m]>target){

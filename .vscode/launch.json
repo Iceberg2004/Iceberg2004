@@ -4,7 +4,34 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Iceberg2004_276b662c"
+        },
+        {
+            "type": "java",
+            "name": "NtoOnenumber",
+            "request": "launch",
+            "mainClass": "NtoOnenumber",
+            "projectName": "Iceberg2004_276b662c"
+        },
+        {
+            "type": "java",
+            "name": "BSRecursion",
+            "request": "launch",
+            "mainClass": "BSRecursion",
+            "projectName": "Iceberg2004_276b662c"
+        },
+        {
+            "type": "java",
+            "name": "OnetoNnumber",
+            "request": "launch",
+            "mainClass": "OnetoNnumber",
+            "projectName": "Iceberg2004_276b662c"
+        },
         {
             "type": "java",
             "name": "Current File",
