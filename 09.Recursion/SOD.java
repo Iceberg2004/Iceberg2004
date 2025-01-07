@@ -4,6 +4,6 @@ public class SOD {
         int n=1235;
     }
     static int sumofdigits(int n){
-        
+    
     }
 }
