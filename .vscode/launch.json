@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "Iceberg2004_276b662c"
+        },
+        {
+            "type": "java",
             "name": "Factorial",
             "request": "launch",
             "mainClass": "Factorial",
