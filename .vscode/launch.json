@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortedArray",
+            "request": "launch",
+            "mainClass": "SortedArray",
+            "projectName": "Iceberg2004_276b662c"
+        },
+        {
+            "type": "java",
             "name": "lcq1",
             "request": "launch",
             "mainClass": "lcq1",
