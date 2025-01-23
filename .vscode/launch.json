@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sortedornot",
+            "request": "launch",
+            "mainClass": "sortedornot",
+            "projectName": "Iceberg2004_276b662c"
+        },
+        {
+            "type": "java",
             "name": "SortedArray",
             "request": "launch",
             "mainClass": "SortedArray",
