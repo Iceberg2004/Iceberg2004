@@ -13,7 +13,7 @@ public class LSinALM2 {
         
     }
     private static ArrayList<Integer> helper(int [] arr,int target,int i){
-         ArrayList<Integer> list= new ArrayList<Integer>();
+         ArrayList<Integer> list= new ArrayList<Integer>();             //if i dont have to pass arrray list int the argument then i will use addAll to sum up all the answers from the recurdion call
 
         if(i==arr.length-1){
             return list;
