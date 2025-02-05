@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mergesort",
+            "request": "launch",
+            "mainClass": "mergesort",
+            "projectName": "Iceberg2004_276b662c"
+        },
+        {
+            "type": "java",
             "name": "sortedornot",
             "request": "launch",
             "mainClass": "sortedornot",
