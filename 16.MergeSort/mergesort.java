@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class mergesort {
+ public class mergesort {
     public static void main(String[] args) {
         int [] arr={5,4,3,2,1};
         arr=merge(arr);
@@ -54,3 +54,5 @@ public class mergesort {
         return mix;
     }
 }
+    
+   
