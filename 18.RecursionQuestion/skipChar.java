@@ -1,7 +1,9 @@
 public class skipChar {
     public static void main(String[] args) {
-    skip(" ","bcdaaach" );    }
-    static void skip(String p,String up){  // code to remove a from the string or array of characters
+    skip(" ","bcdaaach" );   
+ }
+
+    static void skip(String p,String up){  // code to remove 'a; from the string or array of characters
 
         if(up.isEmpty()){
             System.out.println(p);
